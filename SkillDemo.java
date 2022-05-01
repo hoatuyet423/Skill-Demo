@@ -1,5 +1,5 @@
 public class SkillDemo{
     public static boolean isEven(int num){
-        return false; //initially fail the test
+        return num%2 ==0 ; //initially fail the test
     }
 }
